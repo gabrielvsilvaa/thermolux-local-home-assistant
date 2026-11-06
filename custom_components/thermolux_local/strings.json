@@ -1,0 +1,42 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Thermolux Local",
+        "description": "Informe o endereço IP do toalheiro na rede local.",
+        "data": {
+          "name": "Nome",
+          "host": "Endereço IP"
+        }
+      }
+    },
+    "error": {
+      "invalid_host": "Informe um endereço IPv4.",
+      "invalid_name": "Informe um nome.",
+      "cannot_connect": "O aparelho não respondeu como um Thermolux compatível."
+    },
+    "abort": {
+      "already_configured": "Esse toalheiro já está cadastrado."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Adicionar card Thermolux ao dashboard",
+        "description": "Escolha a aba em que deseja adicionar o card deste toalheiro.",
+        "data": {
+          "destination": "Dashboard e aba"
+        }
+      }
+    },
+    "abort": {
+      "no_dashboard": "Nenhum dashboard editável está disponível.",
+      "missing_sensor": "O sensor de modo deste toalheiro está indisponível.",
+      "card_present": "O card deste toalheiro já está nessa aba."
+    },
+    "error": {
+      "dashboard_changed": "A aba mudou. Escolha o destino novamente.",
+      "save_failed": "Não foi possível salvar o card no dashboard."
+    }
+  }
+}
