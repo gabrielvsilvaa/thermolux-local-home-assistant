@@ -1,4 +1,4 @@
-<img src="docs/thermolux-banner.svg" alt="Thermolux" width="440">
+<img src="docs/thermolux-banner-green.svg" alt="Thermolux" width="440">
 
 # Thermolux Local para Home Assistant
 
