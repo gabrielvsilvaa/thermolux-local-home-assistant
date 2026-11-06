@@ -1,4 +1,4 @@
-<img src="custom_components/thermolux_local/brand/logo.png" alt="Logotipo oficial da Thermolux" width="220">
+<img src="https://thermoluxbr.com.br/cdn/shop/files/Thermolux_Negativo.png?v=1740005294&amp;width=600" alt="Logotipo oficial da Thermolux" width="440">
 
 # Thermolux Local para Home Assistant
 
