@@ -19,7 +19,7 @@ A integração foi testada em duas unidades **Easy-IV** no HAOS 2026.8.0. Outros
 3. No campo **Repositório**, cole:
 
    ```text
-   https://github.com/gabrielvsilvaa/thermolux-local
+   https://github.com/gabrielvsilvaa/thermolux-local-home-assistant
    ```
 
 4. Em **Tipo**, selecione **Integração** (*Integration*) e clique em **Adicionar**.
@@ -62,6 +62,6 @@ Copie a pasta `custom_components/thermolux_local` deste repositório para `custo
 
 - **Aparelho offline:** confira o IP e se o painel está acordado. O retorno automático após falta de energia ainda está em investigação. Um evento agendado perdido enquanto o aparelho está offline não é repetido automaticamente.
 - **Card ausente após instalar:** confirme o cadastro do dispositivo e recarregue o dashboard. Em modo YAML, confira o recurso JavaScript.
-- **Encontrou um problema?** Abra uma [issue](https://github.com/gabrielvsilvaa/thermolux-local/issues) com o modelo, a versão do Home Assistant e os passos para reproduzir. Remova IPs, fotos e credenciais dos anexos.
+- **Encontrou um problema?** Abra uma [issue](https://github.com/gabrielvsilvaa/thermolux-local-home-assistant/issues) com o modelo, a versão do Home Assistant e os passos para reproduzir. Remova IPs, fotos e credenciais dos anexos.
 
 Projeto comunitário independente, sem vínculo com a Thermolux ou com o Home Assistant.
