@@ -2,7 +2,7 @@
 
 # Thermolux Local para Home Assistant
 
-Integração comunitária em beta para controlar o **Thermolux Easy-IV** pela rede local. O card reúne o estado do toalheiro, os modos, o desligamento, as agendas e a foto da tela de descanso.
+Integração comunitária em beta para controlar toalheiros **Thermolux** pela rede local, testada no modelo **Easy-IV**. O card reúne o estado do toalheiro, os modos, o desligamento, as agendas e a foto da tela de descanso.
 
 ## Antes de começar
 
