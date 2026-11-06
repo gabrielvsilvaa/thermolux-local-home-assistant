@@ -1,4 +1,4 @@
-![Thermolux Local para Home Assistant](docs/thermolux-local.svg)
+<img src="custom_components/thermolux_local/brand/logo.png" alt="Logotipo oficial da Thermolux" width="220">
 
 # Thermolux Local para Home Assistant
 
